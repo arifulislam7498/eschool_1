@@ -99,7 +99,7 @@ header { background-color: #d8f6cb;
     height: 45px;
 }
 .banner_img {
-        padding: 0 100px;
+        padding: 0;
 }
 .banner_img img {
   width: 100% ;
