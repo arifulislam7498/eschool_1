@@ -102,7 +102,7 @@ header { background-color: #d8f6cb;
         padding: 0 100px;
 }
 .banner_img img {
- 
+  width: 100% ;
 }
 
 /*banner end*/
